@@ -221,7 +221,10 @@ hr{
 /* footer */
 
 footer{
-    height: 150px;
+    height: 100px;
+    width: 100%;
+    left: 0;
+    bottom: 0;
 }
 
 .social-networks{
